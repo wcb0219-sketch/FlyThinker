@@ -1,4 +1,4 @@
-# FlyThinker
+# Think-While-Generating: On-the-Fly Reasoning for Personalized Long-Form Generation
 
 Official implementation of the paper:
 
